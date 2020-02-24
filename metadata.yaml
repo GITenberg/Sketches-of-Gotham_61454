@@ -1,11 +1,16 @@
 _repo: Sketches-of-Gotham_61454
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61454-h/images/cover.jpg
 creator:
   author:
     agent_name: Swift, Ike
     gutenberg_agent_id: '51436'
     url: http://www.gutenberg.org/2009/agents/51436
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61454#Sketches-of-Gotham
 gutenberg_issued: '2020-02-20'
 gutenberg_type: Text
 identifiers:
